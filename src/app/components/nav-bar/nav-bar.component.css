@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,700&display=swap');
 * {
 
   box-sizing: border-box;
   list-style: none;
   text-decoration: none;
   font-family: 'Josefin Sans', sans-serif;
+  
 }
 
 .container {
@@ -50,7 +51,7 @@
   background-color: transparent;
   border: none;
   cursor: pointer;
-  color: #2874A6;
+  color: #5DADE2;
   text-align: left;
   margin-left: 10px;
   z-index: 6;
